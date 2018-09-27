@@ -10,6 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class Main {
   public static void main(String[] args) {
     SpringApplication.run(Main.class, args);
+	String s = null;
+	System.out.println(s.length());
   }
 
   @RequestMapping("/")
