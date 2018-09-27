@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1d635a59_c3925e8f",
+        "filename": ".travis.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1015140
+      },
+      "writtenOn": "2018-09-27T19:06:30Z",
+      "side": 0,
+      "message": "jdk8 should be added as requirement",
+      "revId": "5e17c20b75c336ddaac2258b000772c1acdffe99",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
